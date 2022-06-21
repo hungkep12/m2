@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 02 17:13:11 ICT 2022
+spring-boot-starter-web-2.3.8.BUILD-20210114.175858-54.jar>spring-snapshots=
+spring-boot-starter-web-2.3.8.BUILD-SNAPSHOT.jar>spring-snapshots=
+spring-boot-starter-web-2.3.8.BUILD-20210114.175858-54.pom>spring-snapshots=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 02 16:47:04 ICT 2022
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1654163224739
+https\://nexus.yody.io/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-test\:pom\:2.3.8.BUILD-SNAPSHOT from/to yody-dev-snapshot (https\://nexus.yody.io/repository/maven-snapshots)\: transfer failed for https\://nexus.yody.io/repository/maven-snapshots/org/springframework/boot/spring-boot-starter-test/2.3.8.BUILD-SNAPSHOT/spring-boot-starter-test-2.3.8.BUILD-SNAPSHOT.pom
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-test\:pom\:2.3.8.BUILD-SNAPSHOT from/to spring-milestones (https\://repo.spring.io/milestone)\: transfer failed for https\://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-test/2.3.8.BUILD-SNAPSHOT/spring-boot-starter-test-2.3.8.BUILD-SNAPSHOT.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1654163224735
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-test\:pom\:2.3.8.BUILD-SNAPSHOT from/to spring-snapshots (https\://repo.spring.io/snapshot)\: transfer failed for https\://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-test/2.3.8.BUILD-SNAPSHOT/spring-boot-starter-test-2.3.8.BUILD-SNAPSHOT.pom
+5d6e1db7d6ca3e0392d4c281861bf2eb62d887a7@default-yody-dev-snapshot-https\://nexus.yody.io/repository/maven-snapshots/.lastUpdated=1654163224741

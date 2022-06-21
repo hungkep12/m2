@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 02 18:18:44 ICT 2022
+https\://nexus.yody.io/repository/maven-snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1654168724191
+https\://repo.spring.io/snapshot/.error=
+https\://nexus.yody.io/repository/maven-snapshots/.lastUpdated=1654168724568
+https\://repo.spring.io/snapshot/.lastUpdated=1654168724440

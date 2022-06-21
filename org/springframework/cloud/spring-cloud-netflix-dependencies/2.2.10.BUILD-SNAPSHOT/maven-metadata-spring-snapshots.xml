@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-netflix-dependencies</artifactId>
+  <version>2.2.10.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211117.170104</timestamp>
+      <buildNumber>1069</buildNumber>
+    </snapshot>
+    <lastUpdated>20211117170105</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2.10.BUILD-20211117.170104-1069</value>
+        <updated>20211117170104</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

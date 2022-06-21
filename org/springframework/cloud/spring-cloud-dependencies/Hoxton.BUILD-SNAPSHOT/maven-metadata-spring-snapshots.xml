@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-dependencies</artifactId>
+  <version>Hoxton.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220223.034549</timestamp>
+      <buildNumber>3078</buildNumber>
+    </snapshot>
+    <lastUpdated>20220223034550</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Hoxton.BUILD-20220223.034549-3078</value>
+        <updated>20220223034549</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
